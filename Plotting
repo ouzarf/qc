@@ -1,0 +1,14 @@
+Probability histograms: basic_gates_and_measurement
+ - a series of probability histograms: advanced_gates_part_2
+
+x-y plot with error bars: advanced_gates_part_1
+
+Bloch spheres: decoherence-simulated-with-visualisation (a series of them in one column)
+               decoherence-simulated-with-visualisation (a series of pairs of them in two columns)
+
+Circuit diagrams: basic_gates_and_measurement (a single circuit)
+                  controlled_Not (a series of them)
+
+State tomography: decoherence-simulated-with-visualisation
+
+Running a series of circuits on a single set of registers: decoherence-simulated-with-visualisation
